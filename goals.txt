@@ -1,1 +1,2 @@
 my goal is to become a full time software engineer at ITT
+I want to master Data Structures and Algorithm and perform better in leetcode contests
